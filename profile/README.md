@@ -14,4 +14,4 @@
 
 ## 加入微信群
 
-![扫码加群](https://docs.opentdp.org/static/weixin-qr.jpg)
+![扫码加群](https://github.com/opentdp/tdp-document/raw/master/static/weixin-qr.jpg)
