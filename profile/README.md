@@ -11,7 +11,3 @@
 
 [![TDP Aiart Builder](https://github.com/open-tdp/tdp-aiart/actions/workflows/release.yml/badge.svg)](https://github.com/open-tdp/tdp-aiart/actions/workflows/release.yml)
 [![TDP Aiart UI Builder](https://github.com/open-tdp/tdp-aiart-ui/actions/workflows/release.yml/badge.svg)](https://github.com/open-tdp/tdp-aiart-ui/actions/workflows/release.yml)
-
-## 加入微信群
-
-![扫码加群](https://github.com/opentdp/tdp-document/raw/master/static/weixin-qr.jpg)
